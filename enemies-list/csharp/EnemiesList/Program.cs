@@ -67,9 +67,11 @@ List<Enemy> GetEnemies()
     return enemies;
 }
 
-// Classes are how we define objects in C#. They help us ensure that our objects always have
+// Classes are how we define objects in C#. 
+// They help us ensure that our objects always have
 //  the correct properties and methods.
-// JavaScript is more flexible (but also more error-prone), so you will not need to translate
+// JavaScript is more flexible (but also more 
+// error-prone), so you will not need to translate
 //  this class into JavaScript
 public class Enemy
 {
